@@ -16,5 +16,6 @@
 # стоимость базы 1000рублей
 TELEGRAM  [написать мне](https://t.me/fradyrad)
 
-# оплатить товар
+# оплатить товар через СПБ
+![Alt text](https://github.com/nop-74/bank_Alfa/blob/main/1000.png)
 
