@@ -12,3 +12,9 @@
 # 5.Домашний номер телефона
 # 6.Домашний Адрес
 # Демо базы альфа банк  [скачать](https://github.com/nop-74/bank_Alfa/releases/download/альфабанк/default.xlsx)
+
+# стоимость базы 1000рублей
+TELEGRAM  [написать мне](https://t.me/fradyrad)
+
+# оплатить товар
+
